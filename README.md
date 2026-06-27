@@ -29,31 +29,6 @@ This project covers the complete fine-tuning pipeline, from preparing a dataset 
 
 ---
 
-## 📂 Project Structure
-
-```
-SimpleFineTune/
-│
-├── data/
-│   ├── train.csv
-│   └── test.csv
-│
-├── model/
-│   ├── config.json
-│   ├── model.safetensors
-│   ├── tokenizer.json
-│   ├── tokenizer_config.json
-│   ├── special_tokens_map.json
-│   └── vocab.txt
-│
-├── results/
-│
-├── train.py
-├── inference.py
-├── requirements.txt
-└── README.md
-```
-
 ---
 
 ## 📊 Dataset
